@@ -1,8 +1,8 @@
 """
-This is StrataSonic: A digital subtractive synthesiser program
+This is StrataSonic: A digital subtractive synthesizer program
 that is semi-polyphonic, and has built-in audio recording and layering.
 
-Copyright (C) 2025  Zach Harwood
+Copyright (C) 2025
 
 This file is part of StrataSonic
 
