@@ -3,7 +3,7 @@ This file contains functions that acually handle the creation of the
 raw audio samples. They return a buffer's worth of audio samples,
 as defined by constants.BUFFER_SAMPLES.
 
-Copyright (C) 2025  Zach Harwood
+Copyright (C) 2025
 
 This file is part of StrataSonic
 
