@@ -2,7 +2,7 @@
 This file contains all the functions that control the process of
 taking the input and turning it into an audible note.
 
-Copyright (C) 2025  Zach Harwood
+Copyright (C) 2025
 
 This file is part of StrataSonic
 

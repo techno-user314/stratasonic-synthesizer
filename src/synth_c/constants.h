@@ -1,7 +1,7 @@
 /*
 Define program-wide constants.
 
-Copyright (C) 2025  Zach Harwood
+Copyright (C) 2025
 
 This file is part of StrataSonic
 

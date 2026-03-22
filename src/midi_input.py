@@ -1,8 +1,8 @@
 """
-This file handles converting MIDI input codes into program universal contants
+This file handles converting MIDI input codes into program universal constants
 for control of the synth. The 'inpt' parameter is a MIDI code, e.g. [7, 15, 127].
 
-Copyright (C) 2025  Zach Harwood
+Copyright (C) 2025
 
 This file is part of StrataSonic
 
